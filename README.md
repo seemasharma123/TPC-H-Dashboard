@@ -119,3 +119,8 @@ An interactive toggle visual letting users switch between **Total Revenue**, **T
 - 1998 data covers **January through August only** and has been excluded from year-on-year comparisons to prevent skewed trend analysis.
 - All revenue figures are in **USD**.
 - The TPC-H dataset is **fully synthetic** and does not represent any real company's performance.
+
+- -------------------------------------------------------------------------------------------------------------------------------------
+Screenshots / Demos
+
+
