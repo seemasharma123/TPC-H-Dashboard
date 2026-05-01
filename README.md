@@ -121,6 +121,8 @@ An interactive toggle visual letting users switch between **Total Revenue**, **T
 - The TPC-H dataset is **fully synthetic** and does not represent any real company's performance.
 
 - -------------------------------------------------------------------------------------------------------------------------------------
-Screenshots / Demos
+## 📸 Screenshots / Demos
+
+![Dashboard Preview](Dashboard.png)
 
 
