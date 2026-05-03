@@ -126,3 +126,11 @@ An interactive toggle visual letting users switch between **Total Revenue**, **T
 ![Dashboard Preview](Dashboard.png)
 
 
+
+The complete interactive Power BI dashboard file is available below:
+
+🔗 https://drive.google.com/file/d/1M1hxad7iJFGszBjL_apbInIXuQtkz54F/view?usp=drive_link
+
+> ⚠️ Note: File size is large, so download may take a few moments.
+
+
